@@ -335,7 +335,7 @@ ul.service-list li i
     width: 70px;
     display: inline-block;
     border-radius: 50%;
-    border: 5px solid #fff;
+    border: 1px solid #fff;
     margin-bottom: 15px;
 }
 .service-item h3 span
@@ -457,7 +457,7 @@ TESTIMONIAL
     min-height: 390px;
 }
 .bg-testicolor{
-    background-color: RGBA(73, 84, 105, 0.61);
+    background-color: #38363b;
     min-height: 390px;
 }
 .white
@@ -472,8 +472,8 @@ TESTIMONIAL
     text-shadow: 1px 1px 2px #333;
     text-align: center;
     display: inline-block;
-    width: 100%;
-    margin: 20px 0;
+    width: 95%;
+    margin: 23px 0;
     padding: 0 80px;
     position: relative;
     border: 0;
@@ -485,7 +485,7 @@ TESTIMONIAL
     text-shadow: 1px 1px 2px #333;
     text-align: center;
     display: inline-block;
-    width: 100%;
+    width: 95%;
 }
 .bx-viewport
 {
@@ -503,7 +503,7 @@ TESTIMONIAL
     font-weight: 300;
     font-size: 3em;
     font-family: Georgia, serif;
-    color: #ccc;
+    color: #99d0bb;
     top: 62%;
 }
 .testimonial-item ul li blockquote::after {
@@ -576,7 +576,7 @@ contact
 ***********************************/
 #contact
 {
-    background-color: rgb(73, 84, 105);
+    background-color: #38363b;
 }
 .btn-submit, .btn-submit:hover, .btn-submit:focus
 {
