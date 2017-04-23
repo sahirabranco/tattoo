@@ -1,0 +1,1 @@
+#loader{position:fixed;z-index:99999;top:0;left:0;width:100%;background:url("../img/loading3.gif") center center no-repeat #000;-webkit-transition:all .5s ease;-moz-transition:all .5s ease;-ms-transition:all .5s ease;-o-transition:all .5s ease;transition:all .5s ease}#loader.hide{display:none}
